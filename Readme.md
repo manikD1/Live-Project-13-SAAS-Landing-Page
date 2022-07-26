@@ -1,3 +1,4 @@
+
 ![](https://img.shields.io/badge/Live%20Project%2013-SAAS%20Landing%20Page-brightgreen)
 
 ![](https://img.shields.io/badge/Tech%20Stack-HTML%20%7C%20CSS-blue)
@@ -42,9 +43,9 @@
 &nbsp;
 ***
 ## **🔥Netlify Live Link🔥**
-- [SAAS Landing Page]()
+- [SAAS Landing Page](https://live-proj-13-fullstackjsbootcamp.netlify.app/)
 
 &nbsp;
 ***
 ## **📷 Post Designing Screenshot 📷**
-![]()
+![](https://github.com/manikD1/Live-Project-13-SAAS-Landing-Page/blob/main/Actual-Screenshot.JPG)
