@@ -38,7 +38,7 @@
 ## **🖥️ Ideal Display Resolution 🖥️**
 
 - 1920 * 1080
-- Currently *Non-responsive.*
+- *Fully Responsive.*
 
 &nbsp;
 ***
@@ -47,5 +47,20 @@
 
 &nbsp;
 ***
-## **📷 Post Designing Screenshot 📷**
-![](https://github.com/manikD1/Live-Project-13-SAAS-Landing-Page/blob/main/Actual-Screenshot.JPG)
+## **📷 Post Designing Screenshots 📷**
+
+![](https://github.com/manikD1/Live-Project-13-SAAS-Landing-Page/blob/main/Screenshots/Screenshot1.JPG)
+
+![](https://github.com/manikD1/Live-Project-13-SAAS-Landing-Page/blob/main/Screenshots/Screenshot2.JPG)
+
+![](https://github.com/manikD1/Live-Project-13-SAAS-Landing-Page/blob/main/Screenshots/Screenshot3.JPG)
+
+![](https://github.com/manikD1/Live-Project-13-SAAS-Landing-Page/blob/main/Screenshots/Screenshot4.JPG)
+
+![](https://github.com/manikD1/Live-Project-13-SAAS-Landing-Page/blob/main/Screenshots/Screenshot5.JPG)
+
+![](https://github.com/manikD1/Live-Project-13-SAAS-Landing-Page/blob/main/Screenshots/Screenshot6.JPG)
+
+![](https://github.com/manikD1/Live-Project-13-SAAS-Landing-Page/blob/main/Screenshots/Screenshot7.JPG)
+
+
